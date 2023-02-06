@@ -1,5 +1,5 @@
 // Finding the length of the initial array
-console.log("Total Months: " + finances.length);
+console.log('Total Months:  + finances.length);
 
 // I created a new array called sales to hold only the numerical values
 for (let i = 0; i < finances.length; i++) {
